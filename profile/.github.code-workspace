@@ -1,0 +1,45 @@
+{
+	"folders": [
+		{
+			"name": ".github",
+			"path": ".."
+		},
+		{
+			"name": "peon",
+			"path": "../../peon"
+		},
+		{
+			"name": "peon-orc",
+			"path": "../../peon-orc"
+		},
+		{
+			"name": "peon-wartable",
+			"path": "../../peon-wartable"
+		},
+		{
+			"name": "peon-webui",
+			"path": "../../peon-webui"
+		},
+		{
+			"name": "peon-bot-discord",
+			"path": "../../peon-bot-discord"
+		},
+		{
+			"name": "warplan-csgo",
+			"path": "../../warplan-csgo"
+		},
+		{
+			"name": "warplan-starbound",
+			"path": "../../warplan-starbound"
+		},
+		{
+			"name": "warplan-valhiem",
+			"path": "../../warplan-valhiem"
+		},
+		{
+			"name": "warplan-vrising",
+			"path": "../../warplan-vrising"
+		}
+	],
+	"settings": {}
+}
