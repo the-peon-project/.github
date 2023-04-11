@@ -1,6 +1,6 @@
 # The *PEON* project (FOSS)
 
-![PEON](https://github.com/nox-noctua-consulting/peon/blob/main/media/andre-kent-peon-turntable.jpeg)
+![PEON](../media/images/peon-banner.jpeg)
 
 Welcome to the PEON project.
 
