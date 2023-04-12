@@ -25,20 +25,8 @@
 			"path": "../../peon-bot-discord"
 		},
 		{
-			"name": "warplan-csgo",
-			"path": "../../warplan-csgo"
-		},
-		{
-			"name": "warplan-starbound",
-			"path": "../../warplan-starbound"
-		},
-		{
-			"name": "warplan-valhiem",
-			"path": "../../warplan-valhiem"
-		},
-		{
-			"name": "warplan-vrising",
-			"path": "../../warplan-vrising"
+			"name": "peon-cli",
+			"path": "../../peon-cli"
 		}
 	],
 	"settings": {}
