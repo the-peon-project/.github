@@ -1,6 +1,6 @@
 # The *PEON* project (FOSS)
 
-![PEON](../media/images/peon-logo.png)
+![PEON](https://github.com/the-peon-project/.github/blob/main/media/images/peon-logo.png)
 
 Welcome to the PEON project.
 
