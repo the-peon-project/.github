@@ -2,11 +2,11 @@
 
 [![PEON](https://github.com/the-peon-project/.github/blob/main/media/images/peon-logo.png)](http://www.warcamp.org)
 
-Welcome to the PEON project.
+Making dedicated game servers accessible to anyone, anywhere.
 
-The easy to use GSaaS (Game Server as a Service) platform.
+The easy-to-use GSaaS (Game Server as a Service) platform.
 
-*Whether self hosted or in the cloud, PEON aims to be efficient in resource consumption with modern tools for management of **ANY** self-hostable game server.*
+*Whether self-hosted or in the cloud, PEON aims to be efficient in resource consumption with modern tools for the management of **ANY** self-hostable game servers.*
 
 > Click the PEON for all of our docs & development details.
 
