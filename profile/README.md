@@ -8,7 +8,7 @@ The easy to use GSaaS (Game Server as a Service) platform.
 
 *Whether self hosted or in the cloud, PEON aims to be efficient in resource consumption with modern tools for management of **ANY** self-hostable game server.*
 
-Here you will find all of the official repositories for the PEON project's components.
+> Click the PEON for all of our docs & development details.
 
 ## A story behind the name
 
