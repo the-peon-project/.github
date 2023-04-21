@@ -1,6 +1,6 @@
 # The *PEON* project (FOSS)
 
-![PEON](https://github.com/the-peon-project/.github/blob/main/media/images/peon-logo.png)
+[![PEON](https://github.com/the-peon-project/.github/blob/main/media/images/peon-logo.png)](http://www.warcamp.org)
 
 Welcome to the PEON project.
 
