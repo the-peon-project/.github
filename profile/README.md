@@ -34,13 +34,13 @@ That informs most of our project objectives:
 4. **Fast** - The servers must deploy/start/stop in as small a timeframe as possible. We want to game now, not later.
 `Battles do not wait`
 
-## Usage
+## Installtion Guide
 
-TODO - *Steps to deploy/install*
+[DOCS.WARCAMP DEPLOYMENT](http://docs.warcamp.org/guides/01_deployment/)
 
 ## Resources/Documentation
 
-TODO - *Links to the PEON documentaion*
+[DOCS.WARCAMP](http://docs.warcamp.org)
 
 ## License Information
 
