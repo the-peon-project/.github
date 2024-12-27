@@ -91,3 +91,8 @@ The art is by [André Kent - Artstation](https://www.artstation.com/artwork/W2E0
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/umlatt/steamcmd-winehq.svg)](https://hub.docker.com/r/umlatt/steamcmd-winehq)
 [![Docker Stars](https://img.shields.io/docker/stars/umlatt/steamcmd-winehq.svg)](https://hub.docker.com/r/umlatt/steamcmd-winehq)
+
+### SteamCMD with Proton
+
+[![Docker Pulls](https://img.shields.io/docker/pulls/umlatt/steamcmd-proton.svg)](https://hub.docker.com/r/umlatt/steamcmd-proton)
+[![Docker Stars](https://img.shields.io/docker/stars/umlatt/steamcmd-proton.svg)](https://hub.docker.com/r/umlatt/steamcmd-proton)
